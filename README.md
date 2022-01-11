@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://brtknr.com/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brtknr&hide=html,ruby,jupyter%20notebook&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brtknr&hide=html,ruby,jupyter%20notebook&theme=radical&langs_count=10" />
 </a>
 
 <!--
