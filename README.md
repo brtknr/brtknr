@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <a href="https://brtknr.com/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=brtknr&show_icons=true&hide=html,ruby,jupyter%20notebook&hide_rank=true&count_private=true&theme=radical" />
-</a>
-<a href="https://brtknr.com/">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brtknr&hide=html,ruby,jupyter%20notebook&theme=radical" />
 </a>
 
