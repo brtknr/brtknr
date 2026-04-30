@@ -20,8 +20,7 @@
 <img src="https://www.nuget.org/profiles/devexpress/avatar?imageSize=512" alt="devexpress" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
 </p>
-  
-          
+ 
           
           
 
